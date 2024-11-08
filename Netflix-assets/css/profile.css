@@ -1,0 +1,17 @@
+#title {
+  font-size: 4rem;
+  font-weight: 500;
+}
+hr {
+  font-size: 2px;
+}
+h2 {
+  color: white !important;
+}
+img {
+  max-width: 50%;
+  object-fit: cover;
+}
+#ratings {
+  color: white !important;
+}
